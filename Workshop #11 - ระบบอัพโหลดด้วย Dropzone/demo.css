@@ -1,0 +1,27 @@
+.dropzone, .dropzone * {
+  box-sizing: border-box;
+}
+.dropzone {
+  position: relative;
+}
+.dz-preview {
+    position: relative;
+    display: inline-block;
+    width: 120px;
+    margin: 0.5em;
+}
+.dz-progress {
+      display: block;
+      height: 15px;
+      border: 1px solid #aaa;
+}
+.dz-upload {
+  display: block;
+  height: 100%;
+  width: 0;
+  background: green;
+}
+.dz-error-message {
+      color: red;
+      display: none;
+}

@@ -1,0 +1,27 @@
+*{
+	margin:0;
+	padding:0;
+}
+a:hover{
+	text-decoration:none;
+}
+.thumbs{
+	width:480px;
+	margin:60px auto 35px;
+	text-align:center;
+}
+
+.thumbs a{
+	width:120px;
+	height:120px;
+	display:inline-block;
+	border:7px solid #303030;
+	box-shadow:0 1px 3px rgba(0,0,0,0.5);
+	border-radius:4px;
+	margin: 6px 6px 40px;
+	position:relative;
+	text-decoration:none;
+	background-position:center center;
+	background-repeat: no-repeat;
+	background-size:cover;
+}
