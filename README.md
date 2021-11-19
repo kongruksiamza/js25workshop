@@ -1,1 +1,1 @@
-# javascript 25 workshop
+# javascript 25 workshop (Supporter)
