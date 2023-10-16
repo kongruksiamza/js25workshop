@@ -1,1 +1,1 @@
-# javascript 25 workshop (Supporter)
+# โค้ดประกอบการสอน JavaScript 25 Workshop
